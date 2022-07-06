@@ -167,3 +167,39 @@ hr {
 }
 
 /* Plan part end */
+/* footer */
+#footer {
+    height: 190px;
+    width: 100%;
+    background-color: #0B0D17;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.footer_text {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.footer_text h1 {
+    font-size: 26;
+    color: #fff;
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+
+}
+
+.footer_text span {
+    color: rgb(250, 108, 108);
+    font-family: 'PT Serif', serif;
+}
+
+.footer_text p {
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px;
+}
+
+/*End footer */
