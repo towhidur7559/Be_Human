@@ -55,21 +55,24 @@ body {
 }
 
 .donate-details {
-    text-align: center;
     margin-bottom: 60px;
 }
 
 .donate-details h1 {
+    text-align: center;
     font-size: 7vh;
     letter-spacing: 0.1rem;
 }
 
 .donate-details p {
+    margin: 0 300px;
+    text-align: center;
     font-size: 1.5em;
     letter-spacing: 0.1rem;
     opacity: 1;
     font-weight: 100;
     color: #707070;
+
 }
 
 
@@ -117,6 +120,8 @@ hr {
     border-width: 0;
     color: #DADADA;
     background-color: #DADADA;
+    width: 80%;
+    margin-bottom: 20px;
 }
 
 .our-donate-part {
@@ -167,6 +172,33 @@ hr {
 }
 
 /* Plan part end */
+.input-btn {
+    text-align: center;
+    padding: 120px;
+    background-color: #FFF4D6;
+    width: 809px;
+    height: 10px;
+    margin: 0 auto;
+}
+
+.input {
+    border: none;
+    height: 50px;
+    width: 300px;
+    padding-left: 20px;
+    border-radius:5px;
+}
+
+.button {
+    border: none;
+    height: 50px;
+    width: 150px;
+    background-color:#FF5959;
+    color: white;
+    border-radius: 5px;
+
+}
+
 /* footer */
 #footer {
     height: 190px;
