@@ -235,3 +235,63 @@ hr {
 }
 
 /*End footer */
+
+
+
+/* My Section */
+ #global{
+    width: 100%;
+    display: flex;
+}
+
+.global_text{
+    width: 70%;
+    padding-left: 200px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 80px;
+}
+.global_text h1{
+    font-size: 30px;
+    font-weight: 600;
+}
+.global_text h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+.global_text p{
+    font-size: 16px;
+    font-weight: 400;
+    width: 550px;
+    padding: 20px 0px;
+}
+.global_text a{
+    background-color:#FF5959;    
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.global_text a:hover{
+    background-color: #0077b5;
+}
+.global_image{
+    padding-top: 80px;
+    width: 100%;
+    padding-right: 100px;
+    padding-left: 50px;
+
+}
+.global_image img{
+    width: 100%;
+    
+}
+.link{
+    text-decoration: none;
+}
+/* My Section */
+
+
+
+
+
